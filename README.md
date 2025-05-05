@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-I'm a web developer passionate about building modern, efficient solutions.<br>I focus on writing clean, scalable code, solving real-world problems, and continuously improving my skills. I work on both individual and team projects, always prioritizing quality, performance, and clarity in every solution I create.
+I'm a web developer passionate about building modern, efficient solutions.
+<br>I focus on writing clean, scalable code, solving real-world problems, and continuously improving my skills. I work on both individual and team projects, always prioritizing quality, performance, and clarity in every solution I create.
+<br> Currently, I’m focused specifically on backend development, and for quite some time now, I’ve been working extensively with the Spring framework.
 
 ## 🌐 Socials:
 
